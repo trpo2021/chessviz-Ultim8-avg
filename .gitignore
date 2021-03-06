@@ -1,0 +1,6 @@
+*.main
+*.c
+*.swp
+*.o
+main.c~
+#main.c#
